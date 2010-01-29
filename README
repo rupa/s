@@ -1,0 +1,4 @@
+# change part of pwd path, and cd to it
+# example:
+# /usr/lib/foo$ s lib src
+# /usr/src/foo$
