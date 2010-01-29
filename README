@@ -1,6 +1,7 @@
-# change part of pwd path, and cd to it
-# example:
-# /usr/lib/foo$ s lib src
-# /usr/src/foo$
+change part of pwd path, and cd to it
+example:
+    /usr/lib/foo$ s lib src
+    /usr/src/foo$
 
-# see http://un.ix.io/bash-cd-with-sed
+supports tab completion
+see http://un.ix.io/bash-cd-with-sed
