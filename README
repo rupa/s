@@ -2,3 +2,5 @@
 # example:
 # /usr/lib/foo$ s lib src
 # /usr/src/foo$
+
+# see http://un.ix.io/bash-cd-with-sed
